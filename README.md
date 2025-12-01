@@ -81,7 +81,8 @@ ICC in Digital Platforms/
 ├── listings_Add_Amenity.xlsx        # Pre-processed Data
 ├── neighbourhoods.csv               # Neighborhood list
 ├── neighbourhoods.geojson           # Spatial boundary files
-└── reviews.csv                      # Raw Data
+├── reviews.csv                      # Raw Data
+└── README.md
 ````
 
 -----
