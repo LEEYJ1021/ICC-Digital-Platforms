@@ -1,0 +1,26 @@
+=== COMPREHENSIVE ICC ANALYSIS REPORT ===
+==================================================
+Dataset Overview:
+- Total listings analyzed: 2927
+- Price range: $85 - $150000
+- Average price: $784
+
+Listing Clusters:
+- Cluster 0: 1204 listings (41.1%)
+- Cluster 1: 1723 listings (58.9%)
+
+Amenity Categories Summary:
+- Accessibility: 0.52 average amenities
+- Bathroom_Personal: 3.08 average amenities
+- Bedding_Comfort: 2.32 average amenities
+- Business_Work: 1.53 average amenities
+- Climate_Control: 1.17 average amenities
+- Essential_Tech: 0.80 average amenities
+- Kitchen_Dining: 3.62 average amenities
+- Outdoor_Recreation: 0.50 average amenities
+- Safety_Security: 2.04 average amenities
+- Transportation: 0.23 average amenities
+- Family_Pets: 0.27 average amenities
+
+Analysis completed successfully!
+==================================================

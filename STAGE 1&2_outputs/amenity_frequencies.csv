@@ -1,0 +1,804 @@
+﻿,count,freq
+,2927,1.0
+wifi,2857,0.9760847283908438
+air conditioning,2518,0.8602664844550735
+dryer,2303,0.7868124359412367
+hair dryer,2231,0.7622138708575333
+hot water,2207,0.7540143491629655
+tv,2144,0.7324906047147249
+shampoo,2044,0.6983259309873591
+hangers,2031,0.6938845234028015
+kitchen,1968,0.672360778954561
+essentials,1776,0.6067646053980185
+washer,1686,0.5760163990433891
+refrigerator,1651,0.5640587632388111
+bed linens,1613,0.551076187222412
+elevator,1534,0.524086094977793
+self check-in,1464,0.5001708233686368
+iron,1458,0.49812094294499487
+dishes and silverware,1432,0.4892381277758797
+long term stays allowed,1384,0.4728390843867441
+smoke alarm,1383,0.47249743764947044
+shower gel,1373,0.46908097027673384
+fire extinguisher,1314,0.44892381277758797
+cooking basics,1307,0.44653228561667235
+dedicated workspace,1278,0.4366245302357363
+hot water kettle,1198,0.40929279125384355
+microwave,1170,0.39972668261018107
+stove,996,0.3402801503245644
+clothing storage,971,0.33173898189272294
+room-darkening shades,954,0.3259309873590707
+cleaning products,923,0.31533993850358727
+luggage dropoff allowed,805,0.2750256235052955
+dining table,736,0.25145199863341305
+first aid kit,731,0.24974376494704476
+private entrance,719,0.24564400409976084
+conditioner,699,0.23881106935428767
+freezer,690,0.23573624871882473
+body soap,689,0.23539460198155107
+extra pillows and blankets,687,0.23471130850700375
+drying rack for clothing,675,0.23061154765971986
+carbon monoxide alarm,655,0.22377861291424667
+heating,617,0.21079603689784762
+lock on bedroom door,592,0.20225486846600615
+laundromat nearby,565,0.19303040655961737
+keypad,533,0.18209771096686025
+exterior security cameras on property,493,0.16843184147591392
+coffee,482,0.16467372736590366
+smart lock,455,0.15544926545951487
+coffee maker,434,0.14827468397676802
+cleaning available during stay,431,0.14724974376494704
+rice maker,414,0.14144174923129485
+wine glasses,409,0.13973351554492655
+oven,381,0.1301674069012641
+lockbox,361,0.12333447215579091
+closet,351,0.11991800478305432
+pets allowed,348,0.11889306457123335
+patio or balcony,344,0.1175264776221387
+host greets you,339,0.1158182439357704
+clothing storage: closet,326,0.11137683635121284
+ethernet connection,316,0.10796036897847626
+free washer,298,0.1018107277075504
+single level home,289,0.09873590707208746
+toaster,280,0.09566108643662453
+mini fridge,276,0.0942944994875299
+window guards,265,0.09053638537751965
+outdoor dining area,265,0.09053638537751965
+bathtub,244,0.08336180389477281
+free dryer,237,0.08097027673385719
+exercise equipment,230,0.07857874957294157
+paid parking off premises,230,0.07857874957294157
+standard cable,224,0.07652886914929963
+ac - split type ductless system,224,0.07652886914929963
+books and reading material,222,0.07584557567475231
+crib,212,0.07242910830201571
+hdtv,204,0.06969593440382645
+paid parking on premises,198,0.06764605398018449
+induction stove,195,0.06662111376836351
+sound system,194,0.06627946703108985
+smoking allowed,191,0.06525452681926888
+wardrobe,190,0.06491288008199522
+bidet,187,0.06388793987017424
+city skyline view,183,0.0625213529210796
+tv with standard cable,182,0.062179706183805944
+outdoor furniture,182,0.062179706183805944
+bbq grill,179,0.061154765971984965
+window ac unit,172,0.05876323881106935
+portable fans,163,0.05568841817560642
+pool,155,0.05295524427741715
+private patio or balcony,155,0.05295524427741715
+blender,155,0.05295524427741715
+backyard,154,0.05261359754014349
+safe,152,0.05193030406559617
+gym,145,0.04953877690468056
+electric,145,0.04953877690468056
+electric stove,141,0.04817218995558593
+trash compactor,134,0.04578066279467031
+clothing storage: wardrobe,132,0.045097369320122996
+portable heater,129,0.044072429108302016
+kitchenette,122,0.041680901947386405
+high chair,120,0.040997608472839085
+netflix,119,0.040655961735565425
+hot tub,119,0.040655961735565425
+building staff,117,0.039972668261018106
+ceiling fan,115,0.039289374786470786
+board games,110,0.037581141100102494
+free parking on premises,105,0.0358729074137342
+nespresso,102,0.03484796720191322
+baking sheet,99,0.03382302699009224
+waterfront,99,0.03382302699009224
+gas stove,94,0.03211479330372395
+coffee maker: nespresso,92,0.03143149982917663
+and dresser,85,0.029039972668261017
+barbecue utensils,80,0.027331738981892725
+mountain view,78,0.026648445507345405
+tv with netflix,75,0.02562350529552443
+free street parking,73,0.02494021182097711
+game console,72,0.02459856508370345
+baby bath,71,0.02425691834642979
+hdtv with netflix,70,0.023915271609156134
+garden view,70,0.023915271609156134
+dishwasher,68,0.023231978134608814
+outlet covers,68,0.023231978134608814
+sea view,63,0.02152374444824052
+shared gym,62,0.02118209771096686
+piano,61,0.020840450973693202
+gym in building,60,0.020498804236419543
+paid street parking off premises,58,0.019815510761872223
+bay view,57,0.019473864024598567
+. shampoo,57,0.019473864024598567
+crib - available upon request,56,0.019132217287324907
+harbor view,56,0.019132217287324907
+. body soap,54,0.018448923812777587
+outdoor playground,53,0.018107277075503928
+babysitter recommendations,53,0.018107277075503928
+private living room,51,0.01742398360095661
+bluetooth sound system,48,0.016399043389135635
+movie theater,48,0.016399043389135635
+mosquito net,46,0.015715749914588316
+shared beach access,45,0.015374103177314656
+shared gym in building,45,0.015374103177314656
+shared patio or balcony,44,0.015032456440040998
+clothing storage: closet and dresser,43,0.014690809702767338
+private hot tub,42,0.01434916296549368
+sun loungers,41,0.01400751622822002
+. conditioner,41,0.01400751622822002
+heating - split type ductless system,40,0.013665869490946362
+ocean view,39,0.013324222753672703
+private backyard,38,0.012982576016399043
+table corner guards,38,0.012982576016399043
+single oven,37,0.012640929279125385
+every day,37,0.012640929279125385
+coffee maker: espresso machine,37,0.012640929279125385
+beach view,37,0.012640929279125385
+outdoor shower,36,0.012299282541851725
+yoga mat,35,0.011957635804578067
+park view,35,0.011957635804578067
+sound system with bluetooth and aux,35,0.011957635804578067
+other induction stove,34,0.011615989067304407
+courtyard view,34,0.011615989067304407
+chromecast,34,0.011615989067304407
+pocket wifi,34,0.011615989067304407
+indoor fireplace,34,0.011615989067304407
+housekeeping - available at extra cost,33,0.011274342330030749
+ev charger,33,0.011274342330030749
+hdtv with standard cable,33,0.011274342330030749
+shared pool,33,0.011274342330030749
+paid parking garage off premises,33,0.011274342330030749
+paid parking lot off premises,33,0.011274342330030749
+open specific hours,32,0.01093269559275709
+and wardrobe,32,0.01093269559275709
+shared backyard,32,0.01093269559275709
+stainless steel oven,29,0.009907755380936112
+bread maker,29,0.009907755380936112
+paid washer,29,0.009907755380936112
+clothing storage: closet and wardrobe,28,0.009566108643662453
+55 inch hdtv,28,0.009566108643662453
+paid dryer,28,0.009566108643662453
+changing table,27,0.009224461906388794
+pool table,26,0.008882815169115136
+children's playroom,26,0.008882815169115136
+breakfast,26,0.008882815169115136
+disney+,25,0.008541168431841476
+clothing storage: walk-in closet,25,0.008541168431841476
+outdoor kitchen,23,0.007857874957294158
+arcade games,23,0.007857874957294158
+dove,23,0.007857874957294158
+central air conditioning,22,0.007516228220020499
+fire pit,22,0.007516228220020499
+amazon prime video,22,0.007516228220020499
+central heating,22,0.007516228220020499
+tv with chromecast,21,0.00717458148274684
+sauna,21,0.00717458148274684
+bikes,21,0.00717458148274684
+40 inch hdtv,21,0.00717458148274684
+32 inch hdtv,21,0.00717458148274684
+stainless steel single oven,20,0.006832934745473181
+lake access,20,0.006832934745473181
+exercise equipment: yoga mat,20,0.006832934745473181
+sound system with aux,20,0.006832934745473181
+exercise equipment: free weights,19,0.006491288008199521
+coffee maker: drip coffee maker,19,0.006491288008199521
+marina view,18,0.0061496412709258624
+stainless steel gas stove,18,0.0061496412709258624
+standalone high chair,18,0.0061496412709258624
+shared sauna,18,0.0061496412709258624
+apple tv,18,0.0061496412709258624
+beach essentials,18,0.0061496412709258624
+bbq grill: charcoal,18,0.0061496412709258624
+private bbq grill,17,0.0058079945336522035
+hdtv with chromecast,17,0.0058079945336522035
+teac sound system,17,0.0058079945336522035
+every day - available at extra cost,17,0.0058079945336522035
+outdoor pool - available seasonally,17,0.0058079945336522035
+ping pong table,17,0.0058079945336522035
+teac sound system with aux,16,0.005466347796378545
+premium cable,16,0.005466347796378545
+noise decibel monitors on property,16,0.005466347796378545
+40 inch hdtv with netflix,15,0.005124701059104886
+resort access,15,0.005124701059104886
+clothing storage: dresser,15,0.005124701059104886
+42 inch hdtv,15,0.005124701059104886
+dove body soap,15,0.005124701059104886
+shared outdoor pool - available seasonally,14,0.004783054321831227
+lg refrigerator,14,0.004783054321831227
+dvd player,14,0.004783054321831227
+bowling alley,14,0.004783054321831227
+clothing storage: wardrobe and dresser,14,0.004783054321831227
+stainless steel induction stove,14,0.004783054321831227
+tv with amazon prime video,14,0.004783054321831227
+shared gym nearby,14,0.004783054321831227
+baby bath - available upon request,13,0.004441407584557568
+french press,13,0.004441407584557568
+double oven,13,0.004441407584557568
+private gym in building,13,0.004441407584557568
+heated,13,0.004441407584557568
+radiant heating,13,0.004441407584557568
+50 inch hdtv,13,0.004441407584557568
+crib - always at the listing,12,0.004099760847283909
+baby safety gates,12,0.004099760847283909
+hdtv with amazon prime video,11,0.0037581141100102495
+lux,11,0.0037581141100102495
+pour-over coffee,11,0.0037581141100102495
+43 inch hdtv,11,0.0037581141100102495
+pool view,10,0.0034164673727365906
+lap pool,10,0.0034164673727365906
+hammock,10,0.0034164673727365906
+standalone high chair - always at the listing,10,0.0034164673727365906
+shared hot tub,10,0.0034164673727365906
+private bbq grill: charcoal,9,0.0030748206354629312
+paid parking lot on premises,9,0.0030748206354629312
+55 inch hdtv with netflix,9,0.0030748206354629312
+kenwood induction stove,9,0.0030748206354629312
+private outdoor kitchen,9,0.0030748206354629312
+valley view,9,0.0030748206354629312
+portable air conditioning,9,0.0030748206354629312
+paid parking garage on premises,8,0.0027331738981892723
+other gas stove,8,0.0027331738981892723
+game console: xbox one,8,0.0027331738981892723
+sunday,8,0.0027331738981892723
+coffee maker: french press,8,0.0027331738981892723
+baby bath - always at the listing,8,0.0027331738981892723
+theme room,8,0.0027331738981892723
+private pool,8,0.0027331738981892723
+tv with disney+,8,0.0027331738981892723
+canal view,8,0.0027331738981892723
+outdoor kitchen with sink,8,0.0027331738981892723
+hbo max,8,0.0027331738981892723
+samsung refrigerator,8,0.0027331738981892723
+tv with apple tv,7,0.0023915271609156134
+42 inch hdtv with netflix,7,0.0023915271609156134
+changing table - always at the listing,7,0.0023915271609156134
+dove shampoo,7,0.0023915271609156134
+hockey rink,7,0.0023915271609156134
+record player,7,0.0023915271609156134
+tv with dvd player,6,0.0020498804236419544
+dove conditioner,6,0.0020498804236419544
+whirlpool refrigerator,6,0.0020498804236419544
+saturday - available at extra cost,6,0.0020498804236419544
+aesop body soap,6,0.0020498804236419544
+na shampoo,6,0.0020498804236419544
+other electric stove,6,0.0020498804236419544
+workout bench,6,0.0020498804236419544
+shared outdoor pool - available all year,6,0.0020498804236419544
+open 24 hours,6,0.0020498804236419544
+folding or convertible high chair,6,0.0020498804236419544
+game console: ps4,6,0.0020498804236419544
+panasonic refrigerator,5,0.0017082336863682953
+resort view,5,0.0017082336863682953
+sunday - available at extra cost,5,0.0017082336863682953
+. stainless steel single oven,5,0.0017082336863682953
+42 inch hdtv with standard cable,5,0.0017082336863682953
+location: kitchen,5,0.0017082336863682953
+bbq grill: gas,5,0.0017082336863682953
+front door,5,0.0017082336863682953
+housekeeping available 2 hours a day,5,0.0017082336863682953
+game console: nintendo switch,5,0.0017082336863682953
+32 inch hdtv with chromecast,5,0.0017082336863682953
+hdtv with disney+,5,0.0017082336863682953
+clothing storage: walk-in closet and closet,5,0.0017082336863682953
+55 inch hdtv with standard cable,5,0.0017082336863682953
+roof top refrigerator,5,0.0017082336863682953
+rejoice shampoo,4,0.0013665869490946361
+infinity,4,0.0013665869490946361
+housekeeping available 1 day a week,4,0.0013665869490946361
+housekeeping available 24 hours,4,0.0013665869490946361
+50 inch hdtv with netflix,4,0.0013665869490946361
+friday,4,0.0013665869490946361
+siemens refrigerator,4,0.0013665869490946361
+wood-burning,4,0.0013665869490946361
+kayak,4,0.0013665869490946361
+private bbq grill: gas,4,0.0013665869490946361
+treadmill,4,0.0013665869490946361
+aesop shampoo,4,0.0013665869490946361
+hdtv with apple tv,4,0.0013665869490946361
+standalone high chair - available upon request,4,0.0013665869490946361
+river view,4,0.0013665869490946361
+stainless steel electric stove,4,0.0013665869490946361
+housekeeping available every day,4,0.0013665869490946361
+electrolux induction stove,3,0.0010249402118209772
+55 inch hdtv with chromecast,3,0.0010249402118209772
+bose bluetooth sound system,3,0.0010249402118209772
+stainless steel double oven,3,0.0010249402118209772
+pool cover,3,0.0010249402118209772
+aesop conditioner,3,0.0010249402118209772
+43 inch hdtv with chromecast,3,0.0010249402118209772
+paid resort access,3,0.0010249402118209772
+49 inch hdtv with standard cable,3,0.0010249402118209772
+bose sound system with bluetooth and aux,3,0.0010249402118209772
+65 inch hdtv with chromecast,3,0.0010249402118209772
+fire tv,3,0.0010249402118209772
+miele oven,3,0.0010249402118209772
+52 inch hdtv,3,0.0010249402118209772
+olympic-sized,3,0.0010249402118209772
+hdtv with dvd player,3,0.0010249402118209772
+hitachi refrigerator,3,0.0010249402118209772
+white westinhouse refrigerator,3,0.0010249402118209772
+folding or convertible high chair - available upon request,3,0.0010249402118209772
+49 inch hdtv with netflix,3,0.0010249402118209772
+boat slip,3,0.0010249402118209772
+lux body soap,3,0.0010249402118209772
+coffee maker: pour-over coffee,3,0.0010249402118209772
+55 inch hdtv with amazon prime video,3,0.0010249402118209772
+clothing storage: walk-in closet and wardrobe,3,0.0010249402118209772
+fireplace guards,3,0.0010249402118209772
+lg bluetooth sound system,3,0.0010249402118209772
+sonos sound system,3,0.0010249402118209772
+shared bbq grill,3,0.0010249402118209772
+60 inch hdtv,3,0.0010249402118209772
+43 inch hdtv with netflix,3,0.0010249402118209772
+miele refrigerator,3,0.0010249402118209772
+marshall bluetooth sound system,3,0.0010249402118209772
+21 inch hdtv,3,0.0010249402118209772
+ev charger - level 2,3,0.0010249402118209772
+other stove,3,0.0010249402118209772
+32 inch hdtv with standard cable,3,0.0010249402118209772
+1 day a week - available at extra cost,3,0.0010249402118209772
+lux conditioner,2,0.0006832934745473181
+siemens single oven,2,0.0006832934745473181
+lake view,2,0.0006832934745473181
+german pool gas stove,2,0.0006832934745473181
+life size games,2,0.0006832934745473181
+sonos bluetooth sound system,2,0.0006832934745473181
+24 inch hdtv,2,0.0006832934745473181
+shared hot tub - available seasonally,2,0.0006832934745473181
+dettol,2,0.0006832934745473181
+smeg refrigerator,2,0.0006832934745473181
+housekeeping available sunday,2,0.0006832934745473181
+gaggenau gas stove,2,0.0006832934745473181
+65 inch hdtv with netflix,2,0.0006832934745473181
+clothing storage: walk-in closet and dresser,2,0.0006832934745473181
+imperial leather body soap,2,0.0006832934745473181
+shared pool - available seasonally,2,0.0006832934745473181
+toshiba refrigerator,2,0.0006832934745473181
+panasonic  refrigerator,2,0.0006832934745473181
+free driveway parking on premises,2,0.0006832934745473181
+water slide,2,0.0006832934745473181
+private outdoor pool - available seasonally,2,0.0006832934745473181
+pantene shampoo,2,0.0006832934745473181
+aveda conditioner,2,0.0006832934745473181
+46 inch hdtv,2,0.0006832934745473181
+game console: xbox 360,2,0.0006832934745473181
+42 inch tv,2,0.0006832934745473181
+tesla only,2,0.0006832934745473181
+folding or convertible high chair - always at the listing,2,0.0006832934745473181
+shared indoor pool - available all year,2,0.0006832934745473181
+pantene conditioner,2,0.0006832934745473181
+startup supply shampoo,2,0.0006832934745473181
+whirlpool induction stove,2,0.0006832934745473181
+other stainless steel induction stove,2,0.0006832934745473181
+other stainless steel gas stove,2,0.0006832934745473181
+coffee maker: keurig coffee machine,2,0.0006832934745473181
+panasonic oven,2,0.0006832934745473181
+shared hot tub - available all year,2,0.0006832934745473181
+miele gas stove,2,0.0006832934745473181
+47 inch hdtv with netflix,2,0.0006832934745473181
+shared indoor pool - available seasonally,2,0.0006832934745473181
+exercise equipment: treadmill,2,0.0006832934745473181
+private bbq grill: electric,2,0.0006832934745473181
+baby monitor,2,0.0006832934745473181
+shared bbq grill: charcoal,2,0.0006832934745473181
+sonos  sound system,2,0.0006832934745473181
+kenwood electric stove,2,0.0006832934745473181
+hdtv with premium cable,2,0.0006832934745473181
+50 inch hdtv with dvd player,2,0.0006832934745473181
+conditioner conditioner,2,0.0006832934745473181
+50 inch hdtv with standard cable,2,0.0006832934745473181
+tuesday,2,0.0006832934745473181
+rituals shampoo,2,0.0006832934745473181
+21 inch hdtv with standard cable,2,0.0006832934745473181
+100 inch hdtv with netflix,2,0.0006832934745473181
+52 inch hdtv with netflix,2,0.0006832934745473181
+exercise equipment: workout bench,2,0.0006832934745473181
+lg le meredian sound system with bluetooth and aux,2,0.0006832934745473181
+batting cage,2,0.0006832934745473181
+miele double oven,2,0.0006832934745473181
+rituals conditioner,2,0.0006832934745473181
+saturday to sunday,2,0.0006832934745473181
+shared pool - available all year,2,0.0006832934745473181
+shared outdoor pool - open specific hours,2,0.0006832934745473181
+43 inch hdtv with standard cable,2,0.0006832934745473181
+40 inch tv,2,0.0006832934745473181
+housekeeping available 1 hour a day,2,0.0006832934745473181
+paid crib - available upon request,2,0.0006832934745473181
+42 inch tv with apple tv,1,0.00034164673727365904
+various shampoo,1,0.00034164673727365904
+aveeno  body soap,1,0.00034164673727365904
+delonghi stainless steel single oven,1,0.00034164673727365904
+candy stainless steel oven,1,0.00034164673727365904
+apple homepod bluetooth sound system,1,0.00034164673727365904
+panasonic stainless steel induction stove,1,0.00034164673727365904
+drugstore brand conditioner,1,0.00034164673727365904
+own brand conditioner,1,0.00034164673727365904
+muji conditioner,1,0.00034164673727365904
+49 inch tv with amazon prime video,1,0.00034164673727365904
+40 inch hdtv with standard cable,1,0.00034164673727365904
+muji shampoo,1,0.00034164673727365904
+monday to saturday - available at extra cost,1,0.00034164673727365904
+reverse cycle in main lounge.  1 window ac each in the two lockable rooms. conditioner,1,0.00034164673727365904
+aveda shampoo,1,0.00034164673727365904
+bose sound system with aux,1,0.00034164673727365904
+whirlpool gas stove,1,0.00034164673727365904
+33 inch tv,1,0.00034164673727365904
+70 inch tv with disney+,1,0.00034164673727365904
+housekeeping available 3 hours a day,1,0.00034164673727365904
+panasonic oven/microwave combi oven,1,0.00034164673727365904
+toaster over and air fryer  oven,1,0.00034164673727365904
+dolce body soap,1,0.00034164673727365904
+dove  shampoo,1,0.00034164673727365904
+private indoor pool - available all year,1,0.00034164673727365904
+various body soap,1,0.00034164673727365904
+samsung bluetooth sound system,1,0.00034164673727365904
+54 inch tv with premium cable,1,0.00034164673727365904
+40 inch hdtv with apple tv,1,0.00034164673727365904
+mita gas stove,1,0.00034164673727365904
+housekeeping available 3 days a week - available at extra cost,1,0.00034164673727365904
+harman kardon bluetooth sound system,1,0.00034164673727365904
+tcl soundbar and revo internet radio in kitchen sound system with bluetooth and aux,1,0.00034164673727365904
+rosieres  stainless steel oven,1,0.00034164673727365904
+simpa stainless steel gas stove,1,0.00034164673727365904
+popular ones  body soap,1,0.00034164673727365904
+housekeeping available friday,1,0.00034164673727365904
+siemens stainless steel induction stove,1,0.00034164673727365904
+harman sound system,1,0.00034164673727365904
+jbl sound system,1,0.00034164673727365904
+own brand body soap,1,0.00034164673727365904
+game console: ps4 and xbox one,1,0.00034164673727365904
+elemis shampoo,1,0.00034164673727365904
+28 inch tv,1,0.00034164673727365904
+46 inch tv,1,0.00034164673727365904
+40 inch hdtv with chromecast,1,0.00034164673727365904
+game console: nintendo wii,1,0.00034164673727365904
+65 inch hdtv with amazon prime video,1,0.00034164673727365904
+google player sound system,1,0.00034164673727365904
+wonder boom bluetooth sound system,1,0.00034164673727365904
+private bbq grill: wood-burning,1,0.00034164673727365904
+vineyard view,1,0.00034164673727365904
+aveeno body soap,1,0.00034164673727365904
+42 inch hdtv with hbo max,1,0.00034164673727365904
+or imperial leather body soap,1,0.00034164673727365904
+game console: nintendo switch and ps4,1,0.00034164673727365904
+siemens oven,1,0.00034164673727365904
+klippsch bluetooth sound system,1,0.00034164673727365904
+22 inch hdtv,1,0.00034164673727365904
+midea oven,1,0.00034164673727365904
+tefal  oven,1,0.00034164673727365904
+bang & olufson bluetooth sound system,1,0.00034164673727365904
+ikea  induction stove,1,0.00034164673727365904
+30 inch tv,1,0.00034164673727365904
+pool toys,1,0.00034164673727365904
+ginger shampoo,1,0.00034164673727365904
+phill smith be gourgeous conditioner,1,0.00034164673727365904
+shared outdoor pool - heated,1,0.00034164673727365904
+32 inch hdtv with disney+,1,0.00034164673727365904
+climbing wall,1,0.00034164673727365904
+share with other guest refrigerator,1,0.00034164673727365904
+40 inch tv with disney+,1,0.00034164673727365904
+shared indoor pool - open 24 hours,1,0.00034164673727365904
+german pool  gas stove,1,0.00034164673727365904
+varius shampoo,1,0.00034164673727365904
+50 inch hdtv with disney+,1,0.00034164673727365904
+lg sound system,1,0.00034164673727365904
+private hot tub - available seasonally,1,0.00034164673727365904
+ski-in/ski-out,1,0.00034164673727365904
+devialet speakers bluetooth sound system,1,0.00034164673727365904
+32 inch tv with chromecast,1,0.00034164673727365904
+xxx conditioner,1,0.00034164673727365904
+sony bluetooth sound system,1,0.00034164673727365904
+fortress refrigerator,1,0.00034164673727365904
+miele stainless steel induction stove,1,0.00034164673727365904
+under counter w/ sm freezer refrigerator,1,0.00034164673727365904
+rituals body soap,1,0.00034164673727365904
+google assistants sound system,1,0.00034164673727365904
+own brand shampoo,1,0.00034164673727365904
+housekeeping available 1 day a week - available at extra cost,1,0.00034164673727365904
+basic body soap,1,0.00034164673727365904
+madia  refrigerator,1,0.00034164673727365904
+avene body soap,1,0.00034164673727365904
+private hot tub - available all year,1,0.00034164673727365904
+45 inch tv with netflix,1,0.00034164673727365904
+smeg  stainless steel double oven,1,0.00034164673727365904
+head and shoulder shampoo,1,0.00034164673727365904
+indoor fireplace: wood-burning,1,0.00034164673727365904
+ge oven,1,0.00034164673727365904
+harman / kardon bluetooth sound system,1,0.00034164673727365904
+philips electric stove,1,0.00034164673727365904
+demuller refrigerator,1,0.00034164673727365904
+if needed blender are provided panasonic body soap,1,0.00034164673727365904
+private pool - available all year,1,0.00034164673727365904
+tgc stainless steel gas stove,1,0.00034164673727365904
+whirpool refrigerator,1,0.00034164673727365904
+high street brand  conditioner,1,0.00034164673727365904
+aeg induction stove,1,0.00034164673727365904
+electrolux  stainless steel single oven,1,0.00034164673727365904
+bosch refrigerator,1,0.00034164673727365904
+the clear muji bottle body soap,1,0.00034164673727365904
+i have a small oven to cook basics. it is not big enough to roast a chicken! oven,1,0.00034164673727365904
+samsung soundbar bluetooth sound system,1,0.00034164673727365904
+aeg stainless steel induction stove,1,0.00034164673727365904
+rinnai  stainless steel gas stove,1,0.00034164673727365904
+43 inch tv with netflix,1,0.00034164673727365904
+samsung induction stove,1,0.00034164673727365904
+thursday,1,0.00034164673727365904
+friday to sunday - available at extra cost,1,0.00034164673727365904
+nonau shampoo,1,0.00034164673727365904
+miele stainless steel oven,1,0.00034164673727365904
+doterra  conditioner,1,0.00034164673727365904
+marshal sound system with bluetooth and aux,1,0.00034164673727365904
+38 inch hdtv with apple tv,1,0.00034164673727365904
+siemens gas stove,1,0.00034164673727365904
+miele single oven,1,0.00034164673727365904
+hermes conditioner,1,0.00034164673727365904
+delonghi electric stove,1,0.00034164673727365904
+desert view,1,0.00034164673727365904
+rooftop,1,0.00034164673727365904
+saturday to sunday - available at extra cost,1,0.00034164673727365904
+skate ramp,1,0.00034164673727365904
+philco refrigerator,1,0.00034164673727365904
+game console: nintendo switch and ps5,1,0.00034164673727365904
+55 inch hdtv with hbo max,1,0.00034164673727365904
+doterra  body soap,1,0.00034164673727365904
+whirlpool stainless steel oven,1,0.00034164673727365904
+49 inch hdtv with amazon prime video,1,0.00034164673727365904
+private hot tub - open 24 hours,1,0.00034164673727365904
+50 inch hdtv with amazon prime video,1,0.00034164673727365904
+various  shampoo,1,0.00034164673727365904
+stainless steel stove,1,0.00034164673727365904
+samsung  refrigerator,1,0.00034164673727365904
+yamaha bluetooth sound system,1,0.00034164673727365904
+toshiba stainless steel single oven,1,0.00034164673727365904
+hulu,1,0.00034164673727365904
+bosch stainless steel gas stove,1,0.00034164673727365904
+nardi stainless steel oven,1,0.00034164673727365904
+electrolux stainless steel oven,1,0.00034164673727365904
+48 inch tv with amazon prime video,1,0.00034164673727365904
+the grey muji bottle shampoo,1,0.00034164673727365904
+silk shampoo,1,0.00034164673727365904
+rituals  body soap,1,0.00034164673727365904
+normal & wine fridges  refrigerator,1,0.00034164673727365904
+ue megaboom sound system,1,0.00034164673727365904
+portable speaker sound system with bluetooth and aux,1,0.00034164673727365904
+nonau conditioner,1,0.00034164673727365904
+roku,1,0.00034164673727365904
+laser tag,1,0.00034164673727365904
+muji body soap,1,0.00034164673727365904
+whirlpool single oven,1,0.00034164673727365904
+kef sound system,1,0.00034164673727365904
+game console: xbox series x,1,0.00034164673727365904
+pacific induction stove,1,0.00034164673727365904
+50 inch hdtv with chromecast,1,0.00034164673727365904
+32 inch hdtv with amazon prime video,1,0.00034164673727365904
+tresemme shampoo & conditioner shampoo,1,0.00034164673727365904
+dove or similar  body soap,1,0.00034164673727365904
+treseme shampoo,1,0.00034164673727365904
+head and shoulders conditioner,1,0.00034164673727365904
+kenwood stainless steel single oven,1,0.00034164673727365904
+argelan body soap,1,0.00034164673727365904
+smeg stove,1,0.00034164673727365904
+46 inch hdtv with netflix,1,0.00034164673727365904
+treseme conditioner,1,0.00034164673727365904
+varius conditioner,1,0.00034164673727365904
+48 inch tv with netflix,1,0.00034164673727365904
+jbl bluetooth sound system,1,0.00034164673727365904
+elemis  body soap,1,0.00034164673727365904
+unknown body soap,1,0.00034164673727365904
+unknow oven,1,0.00034164673727365904
+65 inch tv with dvd player,1,0.00034164673727365904
+basic  shampoo,1,0.00034164673727365904
+onkio hifi  sound system with aux,1,0.00034164673727365904
+sabon body soap,1,0.00034164673727365904
+head and shoulders shampoo,1,0.00034164673727365904
+harman/kardon sound system with bluetooth and aux,1,0.00034164673727365904
+baby monitor - available upon request,1,0.00034164673727365904
+air fryer oven,1,0.00034164673727365904
+ue boom bluetooth sound system,1,0.00034164673727365904
+garwoods stainless steel induction stove,1,0.00034164673727365904
+2 days a week - available at extra cost,1,0.00034164673727365904
+friday - available at extra cost,1,0.00034164673727365904
+housekeeping available 24 hours - available at extra cost,1,0.00034164673727365904
+palmolive body soap,1,0.00034164673727365904
+various  conditioner,1,0.00034164673727365904
+a brand new shampoo and conditioner will  be provided for stay with 30 days and  more. shampoo,1,0.00034164673727365904
+27 inch hdtv with netflix,1,0.00034164673727365904
+hermes body soap,1,0.00034164673727365904
+housekeeping available tuesday,1,0.00034164673727365904
+75 inch hdtv with amazon prime video,1,0.00034164673727365904
+opal/dettol/rejoice body soap,1,0.00034164673727365904
+changing table - available upon request,1,0.00034164673727365904
+toshiba stainless steel oven,1,0.00034164673727365904
+miele stainless steel gas stove,1,0.00034164673727365904
+siemens double oven,1,0.00034164673727365904
+unknown  body soap,1,0.00034164673727365904
+palmolive conditioner,1,0.00034164673727365904
+pansonic refrigerator,1,0.00034164673727365904
+60 inch hdtv with standard cable,1,0.00034164673727365904
+subzero refrigerator,1,0.00034164673727365904
+hair conditioner conditioner,1,0.00034164673727365904
+game console: ps5,1,0.00034164673727365904
+50 inch tv with netflix,1,0.00034164673727365904
+white-westinghluse refrigerator,1,0.00034164673727365904
+gorenje refrigerator,1,0.00034164673727365904
+b&o sound system with aux,1,0.00034164673727365904
+bed  head tigi shampoo,1,0.00034164673727365904
+baumatic stainless steel oven,1,0.00034164673727365904
+paid folding or convertible high chair - available upon request,1,0.00034164673727365904
+60 inch hdtv with disney+,1,0.00034164673727365904
+korea shampoo,1,0.00034164673727365904
+body shop body soap,1,0.00034164673727365904
+housekeeping available sunday - available at extra cost,1,0.00034164673727365904
+various  body soap,1,0.00034164673727365904
+unknown shampoo,1,0.00034164673727365904
+housekeeping available every day - available at extra cost,1,0.00034164673727365904
+housekeeping available 4 hours a day,1,0.00034164673727365904
+siemens induction stove,1,0.00034164673727365904
+denon soundbar bluetooth sound system,1,0.00034164673727365904
+elemis  conditioner,1,0.00034164673727365904
+bluetooth speaker sound system with bluetooth and aux,1,0.00034164673727365904
+55 inch hdtv with apple tv,1,0.00034164673727365904
+hermes shampoo,1,0.00034164673727365904
+paid washer \u2013 in unit,0,0.0
+\u516c\u7528 refrigerator,0,0.0
+pantene \u6f58\u5a77 conditioner,0,0.0
+fast wifi \u2013 783 mbps,0,0.0
+fast wifi \u2013 118 mbps,0,0.0
+fast wifi \u2013 716 mbps,0,0.0
+dryer \u2013 in building,0,0.0
+fast wifi \u2013 774 mbps,0,0.0
+housekeeping available from 8:00\u202fam to 11:00\u202fpm,0,0.0
+\u5176\u4ed6 stainless steel induction stove,0,0.0
+fast wifi \u2013 703 mbps,0,0.0
+fast wifi \u2013 142 mbps,0,0.0
+fast wifi \u2013 202 mbps,0,0.0
+fast wifi \u2013 317 mbps,0,0.0
+pack \u2019n play/travel crib - available upon request,0,0.0
+fast wifi \u2013 804 mbps,0,0.0
+fast wifi \u2013 722 mbps,0,0.0
+fast wifi \u2013 109 mbps,0,0.0
+fast wifi \u2013 229 mbps,0,0.0
+fast wifi \u2013 652 mbps,0,0.0
+children\u2019s books and toys,0,0.0
+shared beach access \u2013 beachfront,0,0.0
+shared backyard \u2013 not fully fenced,0,0.0
+fast wifi \u2013 724 mbps,0,0.0
+fast wifi \u2013 510 mbps,0,0.0
+housekeeping available from 12:00\u202fpm to 2:00\u202fpm,0,0.0
+\u53ef\u5411\u524d\u53f0\u7d22\u8981 body soap,0,0.0
+paid parking lot on premises \u2013 1 space,0,0.0
+housekeeping available from 9:00\u202fam to 6:00\u202fpm,0,0.0
+pack \u2019n play/travel crib - always at the listing,0,0.0
+fast wifi \u2013 849 mbps,0,0.0
+wifi \u2013 36 mbps,0,0.0
+dryer \u2013\u00a0in unit,0,0.0
+fast wifi \u2013 79 mbps,0,0.0
+housekeeping available from 12:00\u202fpm to 6:00\u202fam,0,0.0
+housekeeping available from 10:30\u202fam to 6:00\u202fpm,0,0.0
+paid dryer \u2013 in unit,0,0.0
+children\u2019s bikes,0,0.0
+fast wifi \u2013 219 mbps,0,0.0
+housekeeping available from 10:00\u202fam to 5:00\u202fpm,0,0.0
+fast wifi \u2013 151 mbps,0,0.0
+fast wifi \u2013 83 mbps,0,0.0
+fast wifi \u2013 943 mbps,0,0.0
+fast wifi \u2013 576 mbps,0,0.0
+pack \u2019n play/travel crib,0,0.0
+fast wifi \u2013 88 mbps,0,0.0
+paid parking lot on premises \u2013 30 spaces,0,0.0
+fast wifi \u2013 107 mbps,0,0.0
+fast wifi \u2013 80 mbps,0,0.0
+\u591a\u79cd shampoo,0,0.0
+fast wifi \u2013 106 mbps,0,0.0
+fast wifi \u2013 789 mbps,0,0.0
+beach access \u2013 beachfront,0,0.0
+children\u2019s books and toys for ages 0-2 years old and 2-5 years old,0,0.0
+housekeeping available from 9:00\u202fam to 7:00\u202fpm,0,0.0
+kiehl\u2019s shampoo,0,0.0
+fast wifi \u2013 57 mbps,0,0.0
+fast wifi \u2013 563 mbps,0,0.0
+fast wifi \u2013 794 mbps,0,0.0
+free washer \u2013 in building,0,0.0
+fast wifi \u2013 736 mbps,0,0.0
+children\u2019s books and toys for ages 2-5 years old and 5-10 years old,0,0.0
+fast wifi \u2013 792 mbps,0,0.0
+shared backyard \u2013 fully fenced,0,0.0
+paid parking garage on premises \u2013 10 spaces,0,0.0
+malin+goetz body soap,0,0.0
+washer \u2013\u00a0in unit,0,0.0
+free residential garage on premises \u2013 1 space,0,0.0
+housekeeping available from 10:00\u202fam to 2:00\u202fpm,0,0.0
+housekeeping available from 3:00\u202fpm to 8:00\u202fpm,0,0.0
+fast wifi \u2013 227 mbps,0,0.0
+fast wifi \u2013 826 mbps,0,0.0
+paid parking garage on premises \u2013 20 spaces,0,0.0
+children\u2019s books and toys for ages 2-5 years old,0,0.0
+housekeeping available from 10:00\u202fam to 3:00\u202fpm,0,0.0
+children\u2019s dinnerware,0,0.0
+fast wifi \u2013 725 mbps,0,0.0
+fast wifi \u2013 192 mbps,0,0.0
+free dryer \u2013 in unit,0,0.0
+paid dryer \u2013 in building,0,0.0
+\u6b27\u8212\u4e39 conditioner,0,0.0
+fast wifi \u2013 810 mbps,0,0.0
+\u6d77\u98de\u4e1d shampoo,0,0.0
+pantene \u6f58\u5a77 shampoo,0,0.0
+fast wifi \u2013 821 mbps,0,0.0
+\u5176\u4ed6 gas stove,0,0.0
+\u4f0a\u83b1\u514b\u65af refrigerator,0,0.0
+paid parking on premises \u2013 10 spaces,0,0.0
+fast wifi \u2013 55 mbps,0,0.0
+paid parking garage on premises \u2013 100 spaces,0,0.0
+fast wifi \u2013 753 mbps,0,0.0
+private backyard \u2013 not fully fenced,0,0.0
+paid pack \u2019n play/travel crib - available upon request,0,0.0
+wifi \u2013 20 mbps,0,0.0
+paid washer \u2013 in building,0,0.0
+private backyard \u2013 fully fenced,0,0.0
+fast wifi \u2013 750 mbps,0,0.0
+fast wifi \u2013 808 mbps,0,0.0
+private beach access \u2013 beachfront,0,0.0
+fast wifi \u2013 108 mbps,0,0.0
+children\u2019s books and toys for ages 5-10 years old and 10+ years old,0,0.0
+fast wifi \u2013 225 mbps,0,0.0
+housekeeping available from 8:00\u202fam to 10:00\u202fpm,0,0.0
+\u5171\u7528 refrigerator,0,0.0
+fast wifi \u2013 494 mbps,0,0.0
+\u5176\u4ed6 induction stove,0,0.0
+washer \u2013\u00a0in building,0,0.0
+fast wifi \u2013 110 mbps,0,0.0
+wifi \u2013 40 mbps,0,0.0
+fast wifi \u2013 837 mbps,0,0.0
+wifi \u2013 24 mbps,0,0.0
+free dryer \u2013 in building,0,0.0
+fast wifi \u2013 67 mbps,0,0.0
+fast wifi \u2013 399 mbps,0,0.0
+sonos (indoor on all floors and outside) sound system,0,0.0
+housekeeping available from 11:30\u202fam to 2:00\u202fam - available at extra cost,0,0.0
+fast wifi \u2013 127 mbps,0,0.0
+\u5b9a\u671f\u66f4\u6539\u54c1\u724c shampoo,0,0.0
+fast wifi \u2013 796 mbps,0,0.0
+fast wifi \u2013 706 mbps,0,0.0
+\u6b27\u8212\u4e39 shampoo,0,0.0
+fast wifi \u2013 640 mbps,0,0.0
+fast wifi \u2013 811 mbps,0,0.0
+children\u2019s books and toys for ages 0-2 years old,0,0.0
+fast wifi \u2013 73 mbps,0,0.0
+fast wifi \u2013 170 mbps,0,0.0
+\u591a\u79cd conditioner,0,0.0
+fast wifi \u2013 913 mbps,0,0.0
+wifi \u2013 6 mbps,0,0.0
+\u5176\u4ed6 wood-burning stove,0,0.0
+fast wifi \u2013 793 mbps,0,0.0
+fast wifi \u2013 95 mbps,0,0.0
+housekeeping available from 9:00\u202fam to 12:30\u202fpm,0,0.0
+fast wifi \u2013 438 mbps,0,0.0
+fast wifi \u2013 228 mbps,0,0.0
+free washer \u2013 in unit,0,0.0
+fast wifi \u2013 802 mbps,0,0.0
+fast wifi \u2013 304 mbps,0,0.0
+children\u2019s books and toys for ages 10+ years old,0,0.0
+fast wifi \u2013 140 mbps,0,0.0
+fast wifi \u2013 121 mbps,0,0.0
+children\u2019s books and toys for ages 5-10 years old,0,0.0
+fast wifi \u2013 856 mbps,0,0.0
+\u6709\u51b0\u7bb1 refrigerator,0,0.0
+fast wifi \u2013 938 mbps,0,0.0
+housekeeping available from 11:00\u202fam to 1:00\u202fpm,0,0.0
